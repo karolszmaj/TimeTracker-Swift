@@ -1,0 +1,9 @@
+use_frameworks!
+
+pod 'SwiftForms'
+pod 'SwiftLoader'
+pod 'RxSwift', '~> 2.0.0-beta'
+pod 'RxCocoa', '~> 2.0.0-beta'
+pod 'RxBlocking', '~> 2.0.0-beta'
+pod 'SwiftValidator', '3.0.1' 
+pod 'FSCalendar'

@@ -1,0 +1,30 @@
+PODS:
+  - FSCalendar (1.7.2)
+  - RxBlocking (2.0.0):
+    - RxSwift (~> 2.0)
+  - RxCocoa (2.0.0):
+    - RxSwift (~> 2.0)
+  - RxSwift (2.0.0)
+  - SwiftForms (1.0.2)
+  - SwiftLoader (0.2.5)
+  - SwiftValidator (3.0.1)
+
+DEPENDENCIES:
+  - FSCalendar
+  - RxBlocking (~> 2.0.0-beta)
+  - RxCocoa (~> 2.0.0-beta)
+  - RxSwift (~> 2.0.0-beta)
+  - SwiftForms
+  - SwiftLoader
+  - SwiftValidator (= 3.0.1)
+
+SPEC CHECKSUMS:
+  FSCalendar: 38f5b3de1aeaa7dc03a3e997bdc6fb3ff3a88b8d
+  RxBlocking: a95a10ed54eb5d116f6c9a87047ff671e181d07b
+  RxCocoa: b0ebd70b4f7450bdb3c8987b122f8fd568dc1e2f
+  RxSwift: d83246efa6f16c50c143bec134649d045498f601
+  SwiftForms: c439aca9cf462383a1292c028bd14915de42bf6b
+  SwiftLoader: 12d7a6f661f5e9a2c9a72003e7dd6162f4ff0cc4
+  SwiftValidator: c59223144754045d7691febdc3b3ecc2e73b609c
+
+COCOAPODS: 0.39.0
